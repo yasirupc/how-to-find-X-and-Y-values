@@ -1,0 +1,1 @@
+# how-to-find-X-and-Y-values
